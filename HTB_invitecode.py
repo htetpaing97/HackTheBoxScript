@@ -3,7 +3,7 @@ import random
 import json
 import base64
 
-""" Contributed By: Sigmapie8 & Ankit Dobhal """           
+""" Contributed By: HtetPaing """           
 
 url = "https://www.hackthebox.eu/api/invite/generate"
 user_agent_list = [
