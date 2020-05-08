@@ -1,9 +1,12 @@
+#!/bin/bash
+#HTB_invitecode.py 
+
 import requests
 import random
 import json
 import base64
 
-""" Contributed By: HtetPaing """           
+""" Contributed By: HtetPaing(Myanmar) """           
 
 url = "https://www.hackthebox.eu/api/invite/generate"
 user_agent_list = [
