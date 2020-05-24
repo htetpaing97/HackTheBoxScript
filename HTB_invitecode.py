@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/env/python3
 #HTB_invitecode.py 
 #I am working with "PycharmCE" so I have all modules like req, random, json. If you don't have, u have to install.
 import requests
