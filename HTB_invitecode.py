@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/env/python3
 #HTB_invitecode.py 
 
 import requests
