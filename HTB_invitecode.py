@@ -5,7 +5,7 @@ import random
 import json
 import base64
 
-""" Contributed By: HtetPaing(Myanmar) """           
+"""By HtetPaing"""          
 
 url = "https://www.hackthebox.eu/api/invite/generate"
 user_agent_list = [
